@@ -226,3 +226,6 @@ This module is designed to handle live score updates for a scoreboard on a websi
 - **JWT Token:** Implemented token to prevent unauthorized actions and potential secure issues.
 - **Security Considerations:** Use HTTPS to ensure all communications, especially token exchange and sensitive data, are encrypted.
 - **WebSocket Alternative:** WebSockets allow more interactive communication but require more server resources.
+
+## Data Flow Diagram:
+![Data Flow Diagram](./diagram.png)
